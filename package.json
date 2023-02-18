@@ -1,0 +1,22 @@
+{
+  "name": "auth-mock",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@arcana/auth": "1.0.0",
+    "@next/font": "^13.0.5",
+    "next": "13.0.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "eslint": "8.23.1",
+    "eslint-config-next": "13.0.5"
+  }
+}
